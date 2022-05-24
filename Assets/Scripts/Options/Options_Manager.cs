@@ -7,7 +7,7 @@ using UnityEngine.UI;
 using UnityEditor;
 
 public class Options_Manager : MonoBehaviour
-{
+{/*
     public AudioSource controladorAudio;
     public AudioClip musicaMenu;
 
@@ -141,5 +141,5 @@ public class Options_Manager : MonoBehaviour
             letras[0].SetActive(true);
         }
     }
-
+    */
 }
